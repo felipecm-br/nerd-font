@@ -7,8 +7,8 @@ Licensed under OFL-1.1 (see `OFL.txt`). Upstream: https://github.com/ryanoasis/n
 ## Install (Linux)
 
 ```sh
-git clone https://github.com/fcmiranda/jetbrains-mono-nerd-font-propo.git
+git clone https://github.com/fcmiranda/nerd-font.git
 mkdir -p ~/.local/share/fonts
-cp jetbrains-mono-nerd-font-propo/*.ttf ~/.local/share/fonts/
+cp nerd-font/*.ttf ~/.local/share/fonts/
 fc-cache -f
 ```
